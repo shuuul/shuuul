@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Shu Li (李述 in Chinese), a third year Ph.D. student at CS@Purdue, advised by Prof. Daisuke Kihara.
+
+My research interestsL:
+- include AI4Science, especially for structural biology
+- Multimodal Learning (cryo-EM map, sequence, protein-DNA/RNA complex structure)
+
+I also build some tools for the community.
+
 <!--
 **shuuul/shuuul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
